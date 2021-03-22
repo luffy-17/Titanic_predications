@@ -8,11 +8,11 @@ I used xgboost classifier with Gradiant Boost and got 77% Accuracy.
 2. **Website:** [Kaggle](https://www.kaggle.com/c/titanic/data)
 
 
-
+## This is a Box Plot that i used to classifie. 
 ![Box Plot](/box_plot.png)
 
 
 
 
-
+## This graph shows difference Survived gender.
 ![Survived Based On Gender](/survived_basedon_gender.png)
