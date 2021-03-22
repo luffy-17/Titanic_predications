@@ -9,7 +9,7 @@ I used xgboost classifier with Gradiant Boost and got 77% Accuracy.
 3. **Website:** [Kaggle](https://www.kaggle.com/c/titanic/data)
 
 
-## This is a Box Plot that i used to Mean. 
+## This is a Box Plot that i used to show Mean. 
 ![Box Plot](/box_plot.png)
 
 
