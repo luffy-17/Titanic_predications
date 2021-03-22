@@ -5,7 +5,7 @@ I used xgboost classifier with Gradiant Boost and got 77% Accuracy.
 
 # Code And Resources I Used
 **Python Version:**3.8
-**Website:**![Kaggle](https://www.kaggle.com/c/titanic/data)
+**Website:**Kaggle
 
 
 
